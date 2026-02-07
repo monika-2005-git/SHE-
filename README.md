@@ -32,3 +32,5 @@ Celestial Buildathon – Feb 2026
 
 ## Team Members
 - Monika S
+- Hemamalini.N
+- Hemavathy.S
